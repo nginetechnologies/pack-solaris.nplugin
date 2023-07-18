@@ -1,4 +1,8 @@
 {
+    "0206b59d-b897-b91c-5270-c5ec26646744": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
+    },
     "045c38f9-ec3e-4371-f172-de7e080b0934": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -47,6 +51,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "087aa25d-bc1b-7eb2-2914-d10e679205b2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Column Split Trim.mesh.nasset/Thumbnails/Column Split Trim.mesh.nasset.tex.nasset"
+    },
+    "08abcb42-b70b-5d13-aa25-f187ae4af0b3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Medium.mesh.nasset/Thumbnails/Platform Medium.mesh.nasset.tex.nasset"
+    },
     "0a3fa111-0ab5-0f88-8730-ec863231b0d8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -63,6 +75,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Staircase.mesh.nasset/Staircase.mesh.nasset",
+        "thumbnail": "b482a498-ebf3-57fb-8e59-5956ed79f4e3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -104,6 +117,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Long.mesh.nasset/Platform Long.mesh.nasset",
+        "thumbnail": "76b893df-e822-eb16-f3dd-2d4148abdf08",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -127,6 +141,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Crate.mesh.nasset/Crate.mesh.nasset",
+        "thumbnail": "9f30939c-4c33-b990-69ec-387b36ce9b4c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -172,6 +187,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway T.mesh.nasset/Hallway T.mesh.nasset",
+        "thumbnail": "e2adace9-1ae1-41b9-c7ab-57dc0df5e371",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -190,6 +206,10 @@
             "7c293890-4497-164f-8d30-132bfa70b2b9",
             "93cf898c-d097-0888-1b23-fd293c57344f"
         ]
+    },
+    "0d3af4f4-db8a-f970-8531-341173e54434": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Door Double Framed.mesh.nasset/Thumbnails/Door Double Framed.mesh.nasset.tex.nasset"
     },
     "0ef502c7-7d7a-0ae5-1d14-eb3c3c2228f0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -255,6 +275,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Computer.mesh.nasset/Computer.mesh.nasset",
+        "thumbnail": "fdf5e7ed-5af4-35aa-7f1b-82ef582c3393",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -271,6 +292,10 @@
             "d4583014-bec3-e5b7-6af3-f3e6bb3094b6",
             "41ff9ab9-f34f-e30f-ba3a-1953e95379d5"
         ]
+    },
+    "15da3586-5651-d523-4e2b-06a1c941889b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Pod.mesh.nasset/Thumbnails/Pod.mesh.nasset.tex.nasset"
     },
     "16d72ef2-9047-814f-3380-0005b10c4071": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -300,6 +325,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Wall Ports.mesh.nasset/Wall Ports.mesh.nasset",
+        "thumbnail": "362277e6-03c2-b5ae-7f6c-05239d6c53f7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -341,6 +367,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1aa24b72-958f-8372-42b2-837c96551847": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway Cap.mesh.nasset/Thumbnails/Hallway Cap.mesh.nasset.tex.nasset"
+    },
     "1b7bd915-628e-b673-df5e-82bfbe08b8eb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -381,6 +411,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Door Double Framed.mesh.nasset/Door Double Framed.mesh.nasset",
+        "thumbnail": "0d3af4f4-db8a-f970-8531-341173e54434",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -496,6 +527,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway.mesh.nasset/Hallway.mesh.nasset",
+        "thumbnail": "716cfc28-9771-3a17-6edb-a682d26f1767",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -564,10 +596,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "32492908-d43a-55f1-664f-5230b2389258": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Wall Neon.mesh.nasset/Thumbnails/Wall Neon.mesh.nasset.tex.nasset"
+    },
     "32aa9bd4-eab8-d9f3-a75b-ca65e061baec": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Shelf.mesh.nasset/Shelf.mesh.nasset",
+        "thumbnail": "9fdf6a65-7e62-8c18-bd21-8ddc3b64115a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -597,6 +634,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Wall Windows.mesh.nasset/Wall Windows.mesh.nasset",
+        "thumbnail": "9f99b162-9934-8181-c242-67326d9f0592",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -613,6 +651,10 @@
             "7c293890-4497-164f-8d30-132bfa70b2b9",
             "73bb7b2c-5dc9-0ee2-a75c-f4d84cb28db5"
         ]
+    },
+    "362277e6-03c2-b5ae-7f6c-05239d6c53f7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Wall Ports.mesh.nasset/Thumbnails/Wall Ports.mesh.nasset.tex.nasset"
     },
     "36a43d9d-2b0d-1789-2025-9c8b042fd57d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -654,6 +696,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway Straight Long.mesh.nasset/Hallway Straight Long.mesh.nasset",
+        "thumbnail": "6d22c290-83b5-2ebd-1113-e0ab5c5cee71",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -697,6 +740,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3d5b86e0-8976-adb5-4fab-f8b1d08e7111": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway Corner.mesh.nasset/Thumbnails/Hallway Corner.mesh.nasset.tex.nasset"
+    },
     "3e7e98e2-7993-fdcb-8986-fc346bee12f7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -725,6 +772,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway Cap.mesh.nasset/Hallway Cap.mesh.nasset",
+        "thumbnail": "1aa24b72-958f-8372-42b2-837c96551847",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -806,6 +854,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4c1012cb-3b27-5cf5-92a1-5dff17e02867": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Glow Orange.mtli.nasset.tex.nasset"
+    },
     "4c2c33c9-3c5e-8713-0b6e-bf494c5a50b2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -841,6 +893,10 @@
             "f69f5927-7a3d-3fe4-b13f-8bcfa7793152",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "547b716d-383f-e944-7910-4cd3c83dfde7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Door Half.mesh.nasset/Thumbnails/Door Half.mesh.nasset.tex.nasset"
     },
     "552ecb99-fc57-0d00-bd71-4ef2bebc87d9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -926,6 +982,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5c1a801b-7107-9fbc-1c0c-661a84cae629": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Small 2.mesh.nasset/Thumbnails/Platform Small 2.mesh.nasset.tex.nasset"
+    },
     "5ef8f256-894d-5291-7e3b-db3384190c9f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -954,6 +1014,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway Corner.mesh.nasset/Hallway Corner.mesh.nasset",
+        "thumbnail": "3d5b86e0-8976-adb5-4fab-f8b1d08e7111",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1002,6 +1063,7 @@
     "635ec5b4-70ec-a183-3325-40b2f6b8ea97": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Secondary.mtli.nasset",
+        "thumbnail": "f7f0a7ce-f9df-eb42-fbfc-ab9ab090829b",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1022,6 +1084,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Small 2.mesh.nasset/Platform Small 2.mesh.nasset",
+        "thumbnail": "5c1a801b-7107-9fbc-1c0c-661a84cae629",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1052,6 +1115,10 @@
             "d4583014-bec3-e5b7-6af3-f3e6bb3094b6",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "686adef6-e21b-5138-cf47-7be4cdc1bc14": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Main.mtli.nasset.tex.nasset"
     },
     "68dea74f-9378-a08b-a8c6-40f5b4f6fc59": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1130,10 +1197,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6d22c290-83b5-2ebd-1113-e0ab5c5cee71": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway Straight Long.mesh.nasset/Thumbnails/Hallway Straight Long.mesh.nasset.tex.nasset"
+    },
     "6f301dbf-4be2-b5fc-02a9-5767a2bff7c3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Wall Glow.mesh.nasset/Wall Glow.mesh.nasset",
+        "thumbnail": "bc6b6839-f97b-c610-fb7a-7049fa756252",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1163,6 +1235,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "716cfc28-9771-3a17-6edb-a682d26f1767": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway.mesh.nasset/Thumbnails/Hallway.mesh.nasset.tex.nasset"
+    },
     "7236ecec-8fc7-c7de-ebbb-2f9caecf240e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1179,6 +1255,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Door Single.mesh.nasset/Door Single.mesh.nasset",
+        "thumbnail": "944db323-ed39-2f96-d669-bb0e3198fb63",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1256,6 +1333,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "76b893df-e822-eb16-f3dd-2d4148abdf08": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Long.mesh.nasset/Thumbnails/Platform Long.mesh.nasset.tex.nasset"
+    },
     "78ec17f1-4e42-2c79-c267-c94066b46e2c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1295,6 +1376,7 @@
     "7c293890-4497-164f-8d30-132bfa70b2b9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Glass.mtli.nasset",
+        "thumbnail": "7c2fa029-5fd8-baaf-3b92-2f5087b1ca05",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1311,6 +1393,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7c2fa029-5fd8-baaf-3b92-2f5087b1ca05": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Glass.mtli.nasset.tex.nasset"
+    },
+    "7c9f135f-62df-7895-e941-13bc54f366f8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Wall Plain.mesh.nasset/Thumbnails/Wall Plain.mesh.nasset.tex.nasset"
+    },
     "7d0218b5-55d6-be3e-2996-17d8d2c76301": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1322,6 +1412,10 @@
             "a60af142-f856-d7b5-7bcb-1b8329286e15",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7d904da3-4db4-de13-6562-4e278400b641": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Glow Blue.mtli.nasset.tex.nasset"
     },
     "7dced399-45c8-6417-da76-eb05e100a771": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1369,6 +1463,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Medium.mesh.nasset/Platform Medium.mesh.nasset",
+        "thumbnail": "08abcb42-b70b-5d13-aa25-f187ae4af0b3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1523,6 +1618,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "944db323-ed39-2f96-d669-bb0e3198fb63": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Door Single.mesh.nasset/Thumbnails/Door Single.mesh.nasset.tex.nasset"
+    },
     "94a0af86-6905-2266-652c-3435ba57bb88": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1635,6 +1734,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Column Split Trim.mesh.nasset/Column Split Trim.mesh.nasset",
+        "thumbnail": "087aa25d-bc1b-7eb2-2914-d10e679205b2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1674,6 +1774,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Pod.mesh.nasset/Pod.mesh.nasset",
+        "thumbnail": "15da3586-5651-d523-4e2b-06a1c941889b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1691,6 +1792,10 @@
             "39177074-313e-cb99-8de4-a33d1d4560d7"
         ]
     },
+    "9e024cbd-2362-b352-7783-1a0ae57defd1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Door Single Wall.mesh.nasset/Thumbnails/Door Single Wall.mesh.nasset.tex.nasset"
+    },
     "9e13fe27-c4f4-49b5-4777-75d768fa45f9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1703,6 +1808,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9f30939c-4c33-b990-69ec-387b36ce9b4c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Crate.mesh.nasset/Thumbnails/Crate.mesh.nasset.tex.nasset"
+    },
+    "9f99b162-9934-8181-c242-67326d9f0592": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Wall Windows.mesh.nasset/Thumbnails/Wall Windows.mesh.nasset.tex.nasset"
+    },
+    "9fdf6a65-7e62-8c18-bd21-8ddc3b64115a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Shelf.mesh.nasset/Thumbnails/Shelf.mesh.nasset.tex.nasset"
+    },
     "a053ee77-c7fe-f0c9-8468-f1c58d9c8b26": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1714,6 +1831,14 @@
             "d4583014-bec3-e5b7-6af3-f3e6bb3094b6",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "a0fbbd2a-e3b8-33fb-5b77-1e55729f8b3e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Large.mesh.nasset/Thumbnails/Platform Large.mesh.nasset.tex.nasset"
+    },
+    "a2fbb6b2-9896-f6f1-caae-e944d8b06006": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway Cross.mesh.nasset/Thumbnails/Hallway Cross.mesh.nasset.tex.nasset"
     },
     "a3936115-ba47-5e5f-cc5a-199b9772613b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1742,9 +1867,14 @@
     "a60af142-f856-d7b5-7bcb-1b8329286e15": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Main.mtli.nasset",
+        "thumbnail": "686adef6-e21b-5138-cf47-7be4cdc1bc14",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "a62edb61-56f7-76c8-d581-7cba8b3948e0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Small.mesh.nasset/Thumbnails/Platform Small.mesh.nasset.tex.nasset"
     },
     "a696d215-0482-615f-5d8a-6bde43830235": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1793,6 +1923,10 @@
             "d4583014-bec3-e5b7-6af3-f3e6bb3094b6",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "aceb0e75-5cc9-807f-eca6-0ed2c91937fb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
     },
     "ad2ad416-a9fc-8afc-8fc7-9f4e471731a1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1866,10 +2000,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b4172b66-66e4-7abd-c45f-f6970b39d83f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Shelf Large.mesh.nasset/Thumbnails/Shelf Large.mesh.nasset.tex.nasset"
+    },
+    "b482a498-ebf3-57fb-8e59-5956ed79f4e3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Staircase.mesh.nasset/Thumbnails/Staircase.mesh.nasset.tex.nasset"
+    },
     "b57a01bd-82d7-1b67-df44-0b268166444c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Door Double Wall.mesh.nasset/Door Double Wall.mesh.nasset",
+        "thumbnail": "bb1819c0-5016-af46-577c-b0d490922e6f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1885,6 +2028,10 @@
             "ad2ad416-a9fc-8afc-8fc7-9f4e471731a1"
         ]
     },
+    "bb1819c0-5016-af46-577c-b0d490922e6f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Door Double Wall.mesh.nasset/Thumbnails/Door Double Wall.mesh.nasset.tex.nasset"
+    },
     "bc0e39c8-e33b-1b5d-a484-3490a0ccf327": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1897,10 +2044,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bc6b6839-f97b-c610-fb7a-7049fa756252": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Wall Glow.mesh.nasset/Thumbnails/Wall Glow.mesh.nasset.tex.nasset"
+    },
     "c1060e22-e5ba-4da7-615a-47170bb64b41": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Small.mesh.nasset/Platform Small.mesh.nasset",
+        "thumbnail": "a62edb61-56f7-76c8-d581-7cba8b3948e0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1936,6 +2088,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Shelf Large.mesh.nasset/Shelf Large.mesh.nasset",
+        "thumbnail": "b4172b66-66e4-7abd-c45f-f6970b39d83f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1970,6 +2123,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway Cross.mesh.nasset/Hallway Cross.mesh.nasset",
+        "thumbnail": "a2fbb6b2-9896-f6f1-caae-e944d8b06006",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1993,6 +2147,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Door Half.mesh.nasset/Door Half.mesh.nasset",
+        "thumbnail": "547b716d-383f-e944-7910-4cd3c83dfde7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2050,6 +2205,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Large.mesh.nasset/Platform Large.mesh.nasset",
+        "thumbnail": "a0fbbd2a-e3b8-33fb-5b77-1e55729f8b3e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2073,6 +2229,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Wall Neon.mesh.nasset/Wall Neon.mesh.nasset",
+        "thumbnail": "32492908-d43a-55f1-664f-5230b2389258",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2094,6 +2251,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Wall Plain.mesh.nasset/Wall Plain.mesh.nasset",
+        "thumbnail": "7c9f135f-62df-7895-e941-13bc54f366f8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2172,7 +2330,7 @@
     "d4583014-bec3-e5b7-6af3-f3e6bb3094b6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Glow Blue.mtli.nasset",
-        "thumbnail": "b779031f-db8f-bfc5-22a5-775880eeb62f"
+        "thumbnail": "7d904da3-4db4-de13-6562-4e278400b641"
     },
     "d4847045-55dc-6bdb-915a-4a60d4af678a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2189,7 +2347,7 @@
     "d4a2ab5b-77cf-44dd-a827-e82038d2aa95": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Glow Orange.mtli.nasset",
-        "thumbnail": "72c33e2e-b614-416b-656c-58b33e9c553e"
+        "thumbnail": "4c1012cb-3b27-5cf5-92a1-5dff17e02867"
     },
     "d4d6d461-8c0f-320c-59a7-22f436350d9a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2231,6 +2389,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Large 2.mesh.nasset/Platform Large 2.mesh.nasset",
+        "thumbnail": "e77746e4-109e-24e1-97d2-876f2d312b6e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2286,6 +2445,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e2adace9-1ae1-41b9-c7ab-57dc0df5e371": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Hallway T.mesh.nasset/Thumbnails/Hallway T.mesh.nasset.tex.nasset"
+    },
     "e32634ac-0959-7457-d44f-f832e0f69864": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2302,6 +2465,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Door Single Wall.mesh.nasset/Door Single Wall.mesh.nasset",
+        "thumbnail": "9e024cbd-2362-b352-7783-1a0ae57defd1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2328,6 +2492,10 @@
             "d4a2ab5b-77cf-44dd-a827-e82038d2aa95",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "e77746e4-109e-24e1-97d2-876f2d312b6e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Platform Large 2.mesh.nasset/Thumbnails/Platform Large 2.mesh.nasset.tex.nasset"
     },
     "e8689f9c-60c7-a5cc-99a9-c0247258d217": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2356,6 +2524,7 @@
     "e92e7ebc-1306-5f68-a05a-643158d6c8f2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/White.mtli.nasset",
+        "thumbnail": "aceb0e75-5cc9-807f-eca6-0ed2c91937fb",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2460,9 +2629,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f45de73b-c260-53a9-a869-62a0612da3d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Column Glowing.mesh.nasset/Thumbnails/Column Glowing.mesh.nasset.tex.nasset"
+    },
     "f69f5927-7a3d-3fe4-b13f-8bcfa7793152": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Black.mtli.nasset",
+        "thumbnail": "0206b59d-b897-b91c-5270-c5ec26646744",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2483,10 +2657,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Solaris_EnviroDiffuse.tex.nasset"
     },
+    "f7f0a7ce-f9df-eb42-fbfc-ab9ab090829b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Secondary.mtli.nasset.tex.nasset"
+    },
     "fa0f2ff6-17de-504a-b9ff-6f9c994a3790": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Solaris.scene.nasset/Column Glowing.mesh.nasset/Column Glowing.mesh.nasset",
+        "thumbnail": "f45de73b-c260-53a9-a869-62a0612da3d7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2503,6 +2682,10 @@
     "fd857fe9-7ab1-4d4c-4da1-0ad2881e5112": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Solaris_Enviro.tex.nasset"
+    },
+    "fdf5e7ed-5af4-35aa-7f1b-82ef582c3393": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Solaris.scene.nasset/Computer.mesh.nasset/Thumbnails/Computer.mesh.nasset.tex.nasset"
     },
     "ffc6597b-0370-0f68-735c-fbe4738024a0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
