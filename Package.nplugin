@@ -2,6 +2,7 @@
     "name": "Solaris Assets",
     "version": "1.0",
     "guid": "93375ffa-9709-470f-a9e6-e9218efe2a87",
+    "database_guid": "8f2fcaf2-0daf-945b-ce0c-a21de1dcf8d5",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "asset_directory": "Assets",
     "plugin_dependencies": [

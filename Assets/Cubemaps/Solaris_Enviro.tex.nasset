@@ -3,10 +3,11 @@
     "source": "Solaris_Enviro.exr",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        1024
+        1024.0,
+        1024.0
     ],
     "preset": 9,
-    "intensity_factor": 1,
+    "intensity_factor": 20,
     "usage_flags": 6,
     "array_size": 6,
     "bc_data": {
